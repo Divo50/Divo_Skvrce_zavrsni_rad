@@ -1,0 +1,146 @@
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+/* nav li {
+    float: left;
+} */
+
+nav a {
+    display: block;
+    padding: 14px 25px;
+    text-decoration: none;
+    color: black;
+}
+
+header h2, p {
+    color: white;
+    padding-bottom: 25px;
+}
+
+header ul {
+    color: white;
+}
+
+#link {
+    border: 0px solid red;
+    padding: 10px 25px;
+    color: white;
+    background-color: red;
+    text-decoration: none;
+    border-radius: 25px;
+}
+
+.gore {
+    background-color: white;
+}
+
+.ikone {
+    position: relative; top: 10px;
+    font-size: 20px;
+}
+
+.ikone div {
+    float: right;
+}
+
+div img {
+    max-width: 100%;
+}
+
+ul li img {
+    max-width: 100%;
+}
+
+article p {
+    text-align: center;
+    color: white;
+    padding: 35px 0;
+}
+
+section h3 {
+    text-align: center;
+    color: red;
+}
+
+.crta {
+    color: red;
+}
+
+section h5 {
+    padding-left: 45px;
+    color: red;
+}
+
+section h4 {
+    color: red;
+}
+
+section a {
+    color: red;
+}
+
+div i {
+    color: red;
+}
+
+section p {
+    color: black;
+}
+
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.tekst p {
+    max-width: 80%;
+    padding-left: 45px;
+}
+
+nav a:hover {
+    color: red;
+}
+
+.lista {
+    border: 2px solid red !important;
+    border-radius: 10px !important;
+    padding: 12px !important;
+}
+
+ul.list-group li.list-group-item {
+            border: 2px solid red;
+            border-radius: 8px;
+            padding: 10px;
+            margin-bottom: 10px; 
+        }
+
+#naslov {
+    text-align: left;
+}
+
+#calendar {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+.task-completed {
+    text-decoration: line-through;
+    color: #6c757d;
+}
+
+
+/* @media screen and (min-width: 768px) and (max-width: 998px) {
+    .ikone {
+        position: relative;
+        top: 0px;
+    }
+
+  } */
+  
